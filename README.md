@@ -11,14 +11,14 @@ Designed as a learning project, it helps practice programming concepts while hav
 Choose the number of rounds and try to outsmart the computer!
 The program keeps track of your performance and highlights the final result with colors:
 
-# 🟢 Win
+- 🟢 Win
 
-# 🔴 Lose
+- 🔴 Lose
 
-# 🟡 Tie
+- 🟡 Tie
 
 
-This project was created during a C++ course as a practical exercise to explore loops, enums, and structs.
+- This project was created during a C++ course as a practical exercise to explore loops, enums, and structs.
 
 ---
 
